@@ -5,8 +5,8 @@
 		Definations-: store the data of heterogenous element. i.e element having different datatype .
 
 
-		** Types of Collections
-		=======================
+												** Types of Collections **
+												=======================
 	Note : collection divided into 4 different Category
 
 	1> Indexed Based -: Array ,List (have internal index)

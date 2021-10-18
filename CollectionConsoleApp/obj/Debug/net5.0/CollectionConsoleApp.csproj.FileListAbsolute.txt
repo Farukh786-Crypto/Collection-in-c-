@@ -1,0 +1,16 @@
+F:\Questpond\2.c#\C# By Shiv Sir\Generics.NET collections Q & A\CollectionConsoleApp\CollectionConsoleApp\bin\Debug\net5.0\CollectionConsoleApp.exe
+F:\Questpond\2.c#\C# By Shiv Sir\Generics.NET collections Q & A\CollectionConsoleApp\CollectionConsoleApp\bin\Debug\net5.0\CollectionConsoleApp.deps.json
+F:\Questpond\2.c#\C# By Shiv Sir\Generics.NET collections Q & A\CollectionConsoleApp\CollectionConsoleApp\bin\Debug\net5.0\CollectionConsoleApp.runtimeconfig.json
+F:\Questpond\2.c#\C# By Shiv Sir\Generics.NET collections Q & A\CollectionConsoleApp\CollectionConsoleApp\bin\Debug\net5.0\CollectionConsoleApp.runtimeconfig.dev.json
+F:\Questpond\2.c#\C# By Shiv Sir\Generics.NET collections Q & A\CollectionConsoleApp\CollectionConsoleApp\bin\Debug\net5.0\CollectionConsoleApp.dll
+F:\Questpond\2.c#\C# By Shiv Sir\Generics.NET collections Q & A\CollectionConsoleApp\CollectionConsoleApp\bin\Debug\net5.0\ref\CollectionConsoleApp.dll
+F:\Questpond\2.c#\C# By Shiv Sir\Generics.NET collections Q & A\CollectionConsoleApp\CollectionConsoleApp\bin\Debug\net5.0\CollectionConsoleApp.pdb
+F:\Questpond\2.c#\C# By Shiv Sir\Generics.NET collections Q & A\CollectionConsoleApp\CollectionConsoleApp\obj\Debug\net5.0\CollectionConsoleApp.csproj.AssemblyReference.cache
+F:\Questpond\2.c#\C# By Shiv Sir\Generics.NET collections Q & A\CollectionConsoleApp\CollectionConsoleApp\obj\Debug\net5.0\CollectionConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\Questpond\2.c#\C# By Shiv Sir\Generics.NET collections Q & A\CollectionConsoleApp\CollectionConsoleApp\obj\Debug\net5.0\CollectionConsoleApp.AssemblyInfoInputs.cache
+F:\Questpond\2.c#\C# By Shiv Sir\Generics.NET collections Q & A\CollectionConsoleApp\CollectionConsoleApp\obj\Debug\net5.0\CollectionConsoleApp.AssemblyInfo.cs
+F:\Questpond\2.c#\C# By Shiv Sir\Generics.NET collections Q & A\CollectionConsoleApp\CollectionConsoleApp\obj\Debug\net5.0\CollectionConsoleApp.csproj.CoreCompileInputs.cache
+F:\Questpond\2.c#\C# By Shiv Sir\Generics.NET collections Q & A\CollectionConsoleApp\CollectionConsoleApp\obj\Debug\net5.0\CollectionConsoleApp.dll
+F:\Questpond\2.c#\C# By Shiv Sir\Generics.NET collections Q & A\CollectionConsoleApp\CollectionConsoleApp\obj\Debug\net5.0\ref\CollectionConsoleApp.dll
+F:\Questpond\2.c#\C# By Shiv Sir\Generics.NET collections Q & A\CollectionConsoleApp\CollectionConsoleApp\obj\Debug\net5.0\CollectionConsoleApp.pdb
+F:\Questpond\2.c#\C# By Shiv Sir\Generics.NET collections Q & A\CollectionConsoleApp\CollectionConsoleApp\obj\Debug\net5.0\CollectionConsoleApp.genruntimeconfig.cache
